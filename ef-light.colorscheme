@@ -1,0 +1,91 @@
+# --- general options ---
+
+[General]
+Description=Ef Light
+Opacity=1
+Wallpaper=
+
+# --- special colors ---
+
+# bg-main
+[Background]
+Color=255,255,255
+
+# bg-main
+[BackgroundIntense]
+Color=255,255,255
+
+# fg-main
+[Foreground]
+Color=32,32,32
+
+# fg-main
+[ForegroundIntense]
+Color=32,32,32
+Bold=true
+
+# --- standard colors ---
+
+# bg-dim
+[Color0]
+Color=239,239,239
+
+# fg-dim
+[Color0Intense]
+Color=112,98,127
+
+# red
+[Color1]
+Color=211,48,58
+
+# red-cooler
+[Color1Intense]
+Color=213,15,127
+
+# green
+[Color2]
+Color=33,122,60
+
+# green-cooler
+[Color2Intense]
+Color=0,136,88
+
+# yellow
+[Color3]
+Color=164,95,34
+
+# yellow-cooler
+[Color3Intense]
+Color=182,80,80
+
+# blue
+[Color4]
+Color=55,92,216
+
+# blue-cooler
+[Color4Intense]
+Color=6,95,255
+
+# purple
+[Color5]
+Color=186,53,175
+
+# purple-cooler
+[Color5Intense]
+Color=96,82,207
+
+# cyan
+[Color6]
+Color=31,111,191
+
+# cyan-cooler
+[Color6Intense]
+Color=31,119,187
+
+# bg-active
+[Color7]
+Color=179,179,179
+
+# bg-alt
+[Color7Intense]
+Color=219,219,219
